@@ -55,14 +55,21 @@ Follow the steps below to get an Admin Token from Okta
   ![](images/CreateToken1.png)
 5. Token will be created once you follow the above steps
 
-** SecretsManager setup in AWS - Store Admin token in AWS Secrets Manager
+## SecretsManager setup in AWS - Store Admin token in AWS Secrets Manager
 
 Create a new secret in the AWS Secrets Manager. This token stores the Okta Admin Token which will be used to invoke SystemLog API.
 
-    - Login to AWS as an Administrator who has the permission to create a token in Secrets Manager
-    - Click on “Services” → “Secrets Manager”
-    - Click on “Store a new secret” button
+  * Login to AWS as an Administrator who has the permission to create a token in Secrets Manager
+  * Click on “Services” → “Secrets Manager”
+  * Click on “Store a new secret” button
 
-  
+ ### Detailed Steps to do the above task
+1. Log into AWS Console as an Administrator.
+2. Make sure you have the permission to create token in Secrets Manager.
+3. Click on Services tab. Next, click on Secrets Manager.
+4. Go to Secrets Manager and click on the button **“Store a new secret button”**
+  ![](images/AWSSM.png)
+  Choose “Other type of secrets”
+5. Select Other type of Secrets (API key)
 
   
