@@ -1,0 +1,14 @@
+{
+	"body-json": {
+		"firstName": "p",
+		"lastName": "m",
+		"email": "p.m@gmail.com",
+		"login": "p.m@gmail.com"
+	},
+	"params": {
+		"header": {
+			"Authorization": "testtoken",
+			"TokenType": "Bearer"
+		}
+	}
+}
