@@ -87,9 +87,9 @@ Create a new secret in the AWS Secrets Manager. This token stores the Okta Admin
 7. Follow the steps as shown in the screenshots above
 
 
-** DynamoDB setup in AWS
+## DynamoDB setup in AWS
 
-*** Detailed steps to do the above task
+### Detailed steps to do the above task
 
 1. Login to AWS Console as an Administrator.
 2. Go to DynamoDB option.
