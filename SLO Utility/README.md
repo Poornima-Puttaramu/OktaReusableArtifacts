@@ -75,6 +75,7 @@ Create a new secret in the AWS Secrets Manager. This token stores the Okta Admin
   Enter a “Secret Name” - for example -  OKTA_ADMIN_TOKEN and provide the value.
   
   **<ins>Make a note of the Secret Name</ins>**
+  
   ![](images/OktaAdminToken.png)
   
 6. Provide the name for the secret and the value for the key. This is a key value pair
