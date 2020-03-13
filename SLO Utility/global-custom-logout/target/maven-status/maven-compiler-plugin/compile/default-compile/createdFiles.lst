@@ -1,0 +1,4 @@
+com\okta\custom\logout\util\AWSOperations.class
+com\okta\custom\logout\util\LogoutHelper.class
+com\okta\custom\logout\controller\LogoutController.class
+com\okta\custom\logout\util\BootstrapServlet.class
