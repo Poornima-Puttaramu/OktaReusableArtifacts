@@ -71,5 +71,91 @@ Create a new secret in the AWS Secrets Manager. This token stores the Okta Admin
   ![](images/AWSSM.png)
   Choose “Other type of secrets”
 5. Select Other type of Secrets (API key)
-
+  ![](images/APIKey.png)
+  Enter a “Secret Name” - for example -  OKTA_ADMIN_TOKEN and provide the value.
   
+  **<ins>Make a note of the Secret Name</ins>**
+  ![](images/OktaAdminToken.png)
+  
+6. Provide the name for the secret and the value for the key. This is a key value pair
+    - Click on “Next”
+    - Provide the Secret name (same as above) and provide a description
+      ![](images/SecretNam.png)
+    - Keep the remaining configurations as default
+    - Click on “Store”
+    
+7. Follow the steps as shown in the screenshots above
+
+
+** DynamoDB setup in AWS
+
+*** Detailed steps to do the above task
+
+1. Login to AWS Console as an Administrator.
+2. Go to DynamoDB option.
+3. Here, there is a table named OktaDetails.
+4. Update the “OktaDetails” table based on the information provided in the table below.
+5. Please make a note that few items depends on the environment and few are constant values
+
+### Table 1: OktaDetails
+Update the “OktaDetails” table based on the information provided in the below table.
+Please make a note that few items depends on the environment and few are constant values
+
+| Column Name | Description | Value |
+| ----------- | ----------- | ----- |
+| OKTA_BASE_URL | Base URL of the Okta tenant | https://{url} |
+| OIDC_CLIENT_ID |  | 2892389392 |
+| ISSUER | <OKTA_BASE_URL>/oauth2/default | https:// {url}/oauth2/default |
+| Syslog_API_Hours |  | 24 |
+| CIMA_LOGOUT_URL | Logout URL of CIMA Applications | http://login.xfinity.com/logout |
+| OKTA_API | Okta’s System Log API | https:// {url}/api/v1/logs |
+| eventType |  | user.authentication.sso |
+| outcome.result| | SUCCESS |
+| Okta_Environment|  | DEV |
+| TOKEN_KEY | | |
+
+
+1. Login to AWS Console as an Administrator.
+2. Go to DynamoDB option.
+3. Here, there is a table named Application_Details
+
+### Table 2 : Application_Details
+
+| Column Name | Description | Example |
+| ----------- | ----------- | ------- |
+| Application_Name | Name of the application (Make sure the application name matches with the name in Okta) | Fortinet Inline Hook Test |
+| Application_Logout_URL | Logout URL of the application | https://samltest.id/Shibboleth.sso/Logout |
+
+
+## EBS setup in AWS
+
+Deploy the application (war file) in the EBS instance
+
+## Roles / Policies setup in AWS
+
+Migrate the following roles which are required for the Single Logout Module
+
+* access_secret_manager_role 
+*	aws-elasticbeanstalk-ec2-role
+*	aws-elasticbeanstalk-service-role
+*	AWSServiceRoleForAutoScaling
+*	AWSServiceRoleForElasticLoadBalancing
+
+## Single Logout Module Integration
+
+For integrating the SLO module with the logout functionality of the applications,the application has to invoke the EBS URL 
+~~~
+<form class="left" action="<c:url value="http://Customlogoutapp-env-1.mi3xz2dyp9.us-east-1.elasticbeanstalk.com"/>" method="get">
+ <input type="submit" value="Global Logout" class="button"/>
+  </form>
+ ~~~ 
+
+## Post Validation Steps
+
+Login to more than one Okta protected applications.
+Logout from an application where the SLO module is invoked
+
+Expected output:
+
+User should get logged out from all the logged in applications,Okta and CIMA protected applications
+
