@@ -1,0 +1,590 @@
+src/ldap/account/migration/bean/Factor.java:13:	DataClass: The class 'Factor' is suspected to be a Data Class (WOC=11.111%, NOPA=0, NOAM=6, WMC=11)
+src/ldap/account/migration/bean/Factor.java:13:	DataClass: The class 'Factor' is suspected to be a Data Class (WOC=11.111%, NOPA=0, NOAM=6, WMC=11)
+src/ldap/account/migration/bean/Factor.java:14:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/Factor.java:14:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/Factor.java:15:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/Factor.java:15:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/Factor.java:16:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/Factor.java:16:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/Factor.java:22:	MethodArgumentCouldBeFinal: Parameter 'factorType' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:22:	MethodArgumentCouldBeFinal: Parameter 'factorType' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:30:	MethodArgumentCouldBeFinal: Parameter 'provider' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:30:	MethodArgumentCouldBeFinal: Parameter 'provider' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:38:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:38:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:42:	CommentRequired: Public method and constructor comments are required
+src/ldap/account/migration/bean/Factor.java:42:	CommentRequired: Public method and constructor comments are required
+src/ldap/account/migration/bean/Factor.java:42:	UncommentedEmptyConstructor: Document empty constructor
+src/ldap/account/migration/bean/Factor.java:42:	UncommentedEmptyConstructor: Document empty constructor
+src/ldap/account/migration/bean/Factor.java:46:	CommentRequired: Public method and constructor comments are required
+src/ldap/account/migration/bean/Factor.java:46:	CommentRequired: Public method and constructor comments are required
+src/ldap/account/migration/bean/Factor.java:46:	MethodArgumentCouldBeFinal: Parameter 'factorType' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:46:	MethodArgumentCouldBeFinal: Parameter 'factorType' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:46:	MethodArgumentCouldBeFinal: Parameter 'phoneNumber' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:46:	MethodArgumentCouldBeFinal: Parameter 'phoneNumber' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:51:	CommentRequired: Public method and constructor comments are required
+src/ldap/account/migration/bean/Factor.java:51:	CommentRequired: Public method and constructor comments are required
+src/ldap/account/migration/bean/Factor.java:55:	MethodArgumentCouldBeFinal: Parameter 'factorType' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:55:	MethodArgumentCouldBeFinal: Parameter 'factorType' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:59:	MethodArgumentCouldBeFinal: Parameter 's' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:59:	MethodArgumentCouldBeFinal: Parameter 's' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:59:	ShortVariable: Avoid variables with short names like s
+src/ldap/account/migration/bean/Factor.java:59:	ShortVariable: Avoid variables with short names like s
+src/ldap/account/migration/bean/Factor.java:65:	CommentRequired: Header comments are required
+src/ldap/account/migration/bean/Factor.java:65:	CommentRequired: Header comments are required
+src/ldap/account/migration/bean/Factor.java:66:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/Factor.java:66:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/Factor.java:72:	MethodArgumentCouldBeFinal: Parameter 'phoneNumber' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:72:	MethodArgumentCouldBeFinal: Parameter 'phoneNumber' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:76:	CommentRequired: Public method and constructor comments are required
+src/ldap/account/migration/bean/Factor.java:76:	CommentRequired: Public method and constructor comments are required
+src/ldap/account/migration/bean/Factor.java:76:	UncommentedEmptyConstructor: Document empty constructor
+src/ldap/account/migration/bean/Factor.java:76:	UncommentedEmptyConstructor: Document empty constructor
+src/ldap/account/migration/bean/Factor.java:80:	CommentRequired: Public method and constructor comments are required
+src/ldap/account/migration/bean/Factor.java:80:	CommentRequired: Public method and constructor comments are required
+src/ldap/account/migration/bean/Factor.java:80:	MethodArgumentCouldBeFinal: Parameter 'phoneNumber' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:80:	MethodArgumentCouldBeFinal: Parameter 'phoneNumber' is not assigned and could be declared final
+src/ldap/account/migration/bean/Factor.java:84:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the validate method if you want a default access modifier
+src/ldap/account/migration/bean/Factor.java:84:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the validate method if you want a default access modifier
+src/ldap/account/migration/bean/Factor.java:84:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/ldap/account/migration/bean/Factor.java:84:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/ldap/account/migration/bean/Factor.java:85:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ldap/account/migration/bean/Factor.java:85:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/ldap/account/migration/bean/RestResponse.java:10:	DataClass: The class 'RestResponse' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=7)
+src/ldap/account/migration/bean/RestResponse.java:10:	DataClass: The class 'RestResponse' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=7)
+src/ldap/account/migration/bean/RestResponse.java:11:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/RestResponse.java:11:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/RestResponse.java:12:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/RestResponse.java:12:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/RestResponse.java:13:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/RestResponse.java:13:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/RestResponse.java:15:	CommentRequired: Public method and constructor comments are required
+src/ldap/account/migration/bean/RestResponse.java:15:	CommentRequired: Public method and constructor comments are required
+src/ldap/account/migration/bean/RestResponse.java:15:	MethodArgumentCouldBeFinal: Parameter 'responseBody' is not assigned and could be declared final
+src/ldap/account/migration/bean/RestResponse.java:15:	MethodArgumentCouldBeFinal: Parameter 'responseBody' is not assigned and could be declared final
+src/ldap/account/migration/bean/RestResponse.java:15:	MethodArgumentCouldBeFinal: Parameter 'responseCode' is not assigned and could be declared final
+src/ldap/account/migration/bean/RestResponse.java:15:	MethodArgumentCouldBeFinal: Parameter 'responseCode' is not assigned and could be declared final
+src/ldap/account/migration/bean/RestResponse.java:15:	MethodArgumentCouldBeFinal: Parameter 'responseMessage' is not assigned and could be declared final
+src/ldap/account/migration/bean/RestResponse.java:15:	MethodArgumentCouldBeFinal: Parameter 'responseMessage' is not assigned and could be declared final
+src/ldap/account/migration/bean/RestResponse.java:25:	MethodArgumentCouldBeFinal: Parameter 'responseCode' is not assigned and could be declared final
+src/ldap/account/migration/bean/RestResponse.java:25:	MethodArgumentCouldBeFinal: Parameter 'responseCode' is not assigned and could be declared final
+src/ldap/account/migration/bean/RestResponse.java:33:	MethodArgumentCouldBeFinal: Parameter 'responseMessage' is not assigned and could be declared final
+src/ldap/account/migration/bean/RestResponse.java:33:	MethodArgumentCouldBeFinal: Parameter 'responseMessage' is not assigned and could be declared final
+src/ldap/account/migration/bean/RestResponse.java:41:	MethodArgumentCouldBeFinal: Parameter 'responseBody' is not assigned and could be declared final
+src/ldap/account/migration/bean/RestResponse.java:41:	MethodArgumentCouldBeFinal: Parameter 'responseBody' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:23:	ShortClassName: Avoid short class names like User
+src/ldap/account/migration/bean/User.java:23:	ShortClassName: Avoid short class names like User
+src/ldap/account/migration/bean/User.java:24:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/User.java:24:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/User.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/bean/User.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/bean/User.java:26:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/User.java:26:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/User.java:26:	ImmutableField: Private field 'loginDisabled' could be made final; it is only initialized in the declaration or constructor.
+src/ldap/account/migration/bean/User.java:26:	ImmutableField: Private field 'loginDisabled' could be made final; it is only initialized in the declaration or constructor.
+src/ldap/account/migration/bean/User.java:26:	RedundantFieldInitializer: Avoid using redundant field initializer for 'loginDisabled'
+src/ldap/account/migration/bean/User.java:26:	RedundantFieldInitializer: Avoid using redundant field initializer for 'loginDisabled'
+src/ldap/account/migration/bean/User.java:27:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/bean/User.java:27:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/bean/User.java:27:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/User.java:27:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/User.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/bean/User.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/bean/User.java:28:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/User.java:28:	CommentRequired: Field comments are required
+src/ldap/account/migration/bean/User.java:31:	MethodArgumentCouldBeFinal: Parameter 'o' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:31:	MethodArgumentCouldBeFinal: Parameter 'o' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:31:	ShortVariable: Avoid variables with short names like o
+src/ldap/account/migration/bean/User.java:31:	ShortVariable: Avoid variables with short names like o
+src/ldap/account/migration/bean/User.java:32:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/ldap/account/migration/bean/User.java:32:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/ldap/account/migration/bean/User.java:33:	ControlStatementBraces: This statement should have braces
+src/ldap/account/migration/bean/User.java:33:	ControlStatementBraces: This statement should have braces
+src/ldap/account/migration/bean/User.java:33:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/ldap/account/migration/bean/User.java:33:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/ldap/account/migration/bean/User.java:34:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/ldap/account/migration/bean/User.java:34:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/ldap/account/migration/bean/User.java:35:	ControlStatementBraces: This statement should have braces
+src/ldap/account/migration/bean/User.java:35:	ControlStatementBraces: This statement should have braces
+src/ldap/account/migration/bean/User.java:35:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/ldap/account/migration/bean/User.java:35:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/ldap/account/migration/bean/User.java:36:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/ldap/account/migration/bean/User.java:36:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/ldap/account/migration/bean/User.java:42:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/bean/User.java:42:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/bean/User.java:52:	MethodArgumentCouldBeFinal: Parameter 'json' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:52:	MethodArgumentCouldBeFinal: Parameter 'json' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:52:	MethodArgumentCouldBeFinal: Parameter 'loginDisabled' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:52:	MethodArgumentCouldBeFinal: Parameter 'loginDisabled' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:52:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/bean/User.java:52:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/bean/User.java:60:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/bean/User.java:60:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/bean/User.java:66:	MethodArgumentCouldBeFinal: Parameter 'create' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:66:	MethodArgumentCouldBeFinal: Parameter 'create' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:66:	MethodArgumentCouldBeFinal: Parameter 'json' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:66:	MethodArgumentCouldBeFinal: Parameter 'json' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:66:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/bean/User.java:66:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/bean/User.java:66:	UnusedFormalParameter: Avoid unused method parameters such as 'create'.
+src/ldap/account/migration/bean/User.java:66:	UnusedFormalParameter: Avoid unused method parameters such as 'create'.
+src/ldap/account/migration/bean/User.java:71:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/bean/User.java:71:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/bean/User.java:79:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/bean/User.java:79:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/bean/User.java:85:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/bean/User.java:85:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/bean/User.java:86:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'retVal' (lines '86'-'88').
+src/ldap/account/migration/bean/User.java:86:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'retVal' (lines '86'-'88').
+src/ldap/account/migration/bean/User.java:88:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'retVal' (lines '88'-'94').
+src/ldap/account/migration/bean/User.java:88:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'retVal' (lines '88'-'94').
+src/ldap/account/migration/bean/User.java:89:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/bean/User.java:89:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/bean/User.java:97:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/bean/User.java:97:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/bean/User.java:103:	MethodArgumentCouldBeFinal: Parameter 'attribute' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:103:	MethodArgumentCouldBeFinal: Parameter 'attribute' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:109:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/ldap/account/migration/bean/User.java:109:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/ldap/account/migration/bean/User.java:112:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/bean/User.java:112:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/bean/User.java:126:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/bean/User.java:126:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/bean/User.java:132:	MethodArgumentCouldBeFinal: Parameter 'attribute' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:132:	MethodArgumentCouldBeFinal: Parameter 'attribute' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:132:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:132:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:146:	MethodArgumentCouldBeFinal: Parameter 'attribute' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:146:	MethodArgumentCouldBeFinal: Parameter 'attribute' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:150:	LocalVariableCouldBeFinal: Local variable 'node' could be declared final
+src/ldap/account/migration/bean/User.java:150:	LocalVariableCouldBeFinal: Local variable 'node' could be declared final
+src/ldap/account/migration/bean/User.java:157:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/bean/User.java:157:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/bean/User.java:168:	UseStringBufferForStringAppends: Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/ldap/account/migration/bean/User.java:168:	UseStringBufferForStringAppends: Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/ldap/account/migration/bean/User.java:170:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/bean/User.java:170:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/bean/User.java:170:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/bean/User.java:170:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/bean/User.java:170:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/bean/User.java:170:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/bean/User.java:170:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/bean/User.java:170:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/bean/User.java:170:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/bean/User.java:170:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/bean/User.java:171:	UseStringBufferForStringAppends: Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/ldap/account/migration/bean/User.java:171:	UseStringBufferForStringAppends: Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/ldap/account/migration/bean/User.java:177:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/bean/User.java:177:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/bean/User.java:182:	MethodArgumentCouldBeFinal: Parameter 'str' is not assigned and could be declared final
+src/ldap/account/migration/bean/User.java:182:	MethodArgumentCouldBeFinal: Parameter 'str' is not assigned and could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:25:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/ldap/account/migration/cloud/CloudUser.java:25:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/ldap/account/migration/cloud/CloudUser.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/cloud/CloudUser.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/cloud/CloudUser.java:26:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/CloudUser.java:26:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/CloudUser.java:26:	ImmutableField: Private field 'user' could be made final; it is only initialized in the declaration or constructor.
+src/ldap/account/migration/cloud/CloudUser.java:26:	ImmutableField: Private field 'user' could be made final; it is only initialized in the declaration or constructor.
+src/ldap/account/migration/cloud/CloudUser.java:27:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/cloud/CloudUser.java:27:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/cloud/CloudUser.java:27:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/CloudUser.java:27:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/CloudUser.java:27:	ImmutableField: Private field 'api' could be made final; it is only initialized in the declaration or constructor.
+src/ldap/account/migration/cloud/CloudUser.java:27:	ImmutableField: Private field 'api' could be made final; it is only initialized in the declaration or constructor.
+src/ldap/account/migration/cloud/CloudUser.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/cloud/CloudUser.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/cloud/CloudUser.java:28:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/CloudUser.java:28:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/CloudUser.java:28:	ImmutableField: Private field 'mapper' could be made final; it is only initialized in the declaration or constructor.
+src/ldap/account/migration/cloud/CloudUser.java:28:	ImmutableField: Private field 'mapper' could be made final; it is only initialized in the declaration or constructor.
+src/ldap/account/migration/cloud/CloudUser.java:29:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/CloudUser.java:29:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/CloudUser.java:30:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/cloud/CloudUser.java:30:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/cloud/CloudUser.java:30:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/CloudUser.java:30:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/CloudUser.java:30:	ImmutableField: Private field 'apiURL' could be made final; it is only initialized in the declaration or constructor.
+src/ldap/account/migration/cloud/CloudUser.java:30:	ImmutableField: Private field 'apiURL' could be made final; it is only initialized in the declaration or constructor.
+src/ldap/account/migration/cloud/CloudUser.java:31:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/cloud/CloudUser.java:31:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/cloud/CloudUser.java:31:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/CloudUser.java:31:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/CloudUser.java:31:	ImmutableField: Private field 'apiKey' could be made final; it is only initialized in the declaration or constructor.
+src/ldap/account/migration/cloud/CloudUser.java:31:	ImmutableField: Private field 'apiKey' could be made final; it is only initialized in the declaration or constructor.
+src/ldap/account/migration/cloud/CloudUser.java:32:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/cloud/CloudUser.java:32:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/cloud/CloudUser.java:32:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/CloudUser.java:32:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/CloudUser.java:35:	CommentRequired: Public method and constructor comments are required
+src/ldap/account/migration/cloud/CloudUser.java:35:	CommentRequired: Public method and constructor comments are required
+src/ldap/account/migration/cloud/CloudUser.java:35:	MethodArgumentCouldBeFinal: Parameter 'apiKey' is not assigned and could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:35:	MethodArgumentCouldBeFinal: Parameter 'apiKey' is not assigned and could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:35:	MethodArgumentCouldBeFinal: Parameter 'apiURL' is not assigned and could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:35:	MethodArgumentCouldBeFinal: Parameter 'apiURL' is not assigned and could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:35:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:35:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:41:	CommentRequired: Public method and constructor comments are required
+src/ldap/account/migration/cloud/CloudUser.java:41:	CommentRequired: Public method and constructor comments are required
+src/ldap/account/migration/cloud/CloudUser.java:41:	MissingOverride: The method 'run()' is missing an @Override annotation.
+src/ldap/account/migration/cloud/CloudUser.java:41:	MissingOverride: The method 'run()' is missing an @Override annotation.
+src/ldap/account/migration/cloud/CloudUser.java:44:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/CloudUser.java:44:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/CloudUser.java:45:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/CloudUser.java:45:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/CloudUser.java:49:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/CloudUser.java:49:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/CloudUser.java:50:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/cloud/CloudUser.java:50:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/cloud/CloudUser.java:58:	CyclomaticComplexity: The method 'createCloudUser()' has a cyclomatic complexity of 11.
+src/ldap/account/migration/cloud/CloudUser.java:58:	CyclomaticComplexity: The method 'createCloudUser()' has a cyclomatic complexity of 11.
+src/ldap/account/migration/cloud/CloudUser.java:60:	LocalVariableCouldBeFinal: Local variable 'validation' could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:60:	LocalVariableCouldBeFinal: Local variable 'validation' could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:61:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/ldap/account/migration/cloud/CloudUser.java:61:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/ldap/account/migration/cloud/CloudUser.java:62:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/CloudUser.java:62:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/CloudUser.java:63:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/ldap/account/migration/cloud/CloudUser.java:63:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/ldap/account/migration/cloud/CloudUser.java:67:	LocalVariableCouldBeFinal: Local variable 'responseBuffer' could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:67:	LocalVariableCouldBeFinal: Local variable 'responseBuffer' could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:69:	LocalVariableCouldBeFinal: Local variable 'builder' could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:69:	LocalVariableCouldBeFinal: Local variable 'builder' could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:71:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:71:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:77:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:77:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:81:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:81:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:81:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:81:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:83:	ConsecutiveLiteralAppends: StringBuffer (or StringBuilder).append is called 2 consecutive times with literals. Use a single append with a single combined String.
+src/ldap/account/migration/cloud/CloudUser.java:83:	ConsecutiveLiteralAppends: StringBuffer (or StringBuilder).append is called 2 consecutive times with literals. Use a single append with a single combined String.
+src/ldap/account/migration/cloud/CloudUser.java:85:	LocalVariableCouldBeFinal: Local variable 'mobilePhone' could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:85:	LocalVariableCouldBeFinal: Local variable 'mobilePhone' could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:86:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/ldap/account/migration/cloud/CloudUser.java:86:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/ldap/account/migration/cloud/CloudUser.java:88:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:88:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:89:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/ldap/account/migration/cloud/CloudUser.java:89:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/ldap/account/migration/cloud/CloudUser.java:90:	AppendCharacterWithChar: Avoid appending characters as strings in StringBuffer.append.
+src/ldap/account/migration/cloud/CloudUser.java:90:	AppendCharacterWithChar: Avoid appending characters as strings in StringBuffer.append.
+src/ldap/account/migration/cloud/CloudUser.java:91:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:91:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:92:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/CloudUser.java:92:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/CloudUser.java:92:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:92:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:99:	AppendCharacterWithChar: Avoid appending characters as strings in StringBuffer.append.
+src/ldap/account/migration/cloud/CloudUser.java:99:	AppendCharacterWithChar: Avoid appending characters as strings in StringBuffer.append.
+src/ldap/account/migration/cloud/CloudUser.java:100:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:100:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:104:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:104:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:108:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:108:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:111:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/CloudUser.java:111:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/CloudUser.java:112:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:112:	LocalVariableCouldBeFinal: Local variable 'message' could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:121:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/CloudUser.java:121:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/CloudUser.java:122:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/cloud/CloudUser.java:122:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/cloud/CloudUser.java:133:	MethodArgumentCouldBeFinal: Parameter 'oktaId' is not assigned and could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:133:	MethodArgumentCouldBeFinal: Parameter 'oktaId' is not assigned and could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:133:	MethodArgumentCouldBeFinal: Parameter 'phoneNumber' is not assigned and could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:133:	MethodArgumentCouldBeFinal: Parameter 'phoneNumber' is not assigned and could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:133:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/cloud/CloudUser.java:133:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/cloud/CloudUser.java:135:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'response' (lines '135'-'142').
+src/ldap/account/migration/cloud/CloudUser.java:135:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'response' (lines '135'-'142').
+src/ldap/account/migration/cloud/CloudUser.java:137:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:137:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/CloudUser.java:137:	LocalVariableCouldBeFinal: Local variable 'builder' could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:137:	LocalVariableCouldBeFinal: Local variable 'builder' could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:142:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'response' (lines '142'-'155').
+src/ldap/account/migration/cloud/CloudUser.java:142:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'response' (lines '142'-'155').
+src/ldap/account/migration/cloud/CloudUser.java:144:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/CloudUser.java:144:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/CloudUser.java:147:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/CloudUser.java:147:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/CloudUser.java:149:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/CloudUser.java:149:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/CloudUser.java:150:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/CloudUser.java:150:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/CloudUser.java:163:	MethodArgumentCouldBeFinal: Parameter 'responseCode' is not assigned and could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:163:	MethodArgumentCouldBeFinal: Parameter 'responseCode' is not assigned and could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:168:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/CloudUser.java:168:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/CloudUser.java:177:	MethodArgumentCouldBeFinal: Parameter 'params' is not assigned and could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:177:	MethodArgumentCouldBeFinal: Parameter 'params' is not assigned and could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:177:	MethodArgumentCouldBeFinal: Parameter 'url' is not assigned and could be declared final
+src/ldap/account/migration/cloud/CloudUser.java:177:	MethodArgumentCouldBeFinal: Parameter 'url' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:28:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/ldap/account/migration/cloud/OktaApi.java:28:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/ldap/account/migration/cloud/OktaApi.java:28:	ModifiedCyclomaticComplexity: The class 'OktaApi' has a Modified Cyclomatic Complexity of 4 (Highest = 10).
+src/ldap/account/migration/cloud/OktaApi.java:28:	ModifiedCyclomaticComplexity: The class 'OktaApi' has a Modified Cyclomatic Complexity of 4 (Highest = 10).
+src/ldap/account/migration/cloud/OktaApi.java:28:	StdCyclomaticComplexity: The class 'OktaApi' has a Standard Cyclomatic Complexity of 4 (Highest = 12).
+src/ldap/account/migration/cloud/OktaApi.java:28:	StdCyclomaticComplexity: The class 'OktaApi' has a Standard Cyclomatic Complexity of 4 (Highest = 12).
+src/ldap/account/migration/cloud/OktaApi.java:29:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/cloud/OktaApi.java:29:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/ldap/account/migration/cloud/OktaApi.java:29:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/OktaApi.java:29:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/OktaApi.java:29:	ImmutableField: Private field 'mapper' could be made final; it is only initialized in the declaration or constructor.
+src/ldap/account/migration/cloud/OktaApi.java:29:	ImmutableField: Private field 'mapper' could be made final; it is only initialized in the declaration or constructor.
+src/ldap/account/migration/cloud/OktaApi.java:30:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/OktaApi.java:30:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/OktaApi.java:32:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/OktaApi.java:32:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/OktaApi.java:33:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/cloud/OktaApi.java:33:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/cloud/OktaApi.java:46:	MethodArgumentCouldBeFinal: Parameter 'apiKey' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:46:	MethodArgumentCouldBeFinal: Parameter 'apiKey' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:46:	MethodArgumentCouldBeFinal: Parameter 'builder' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:46:	MethodArgumentCouldBeFinal: Parameter 'builder' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:46:	MethodArgumentCouldBeFinal: Parameter 'json' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:46:	MethodArgumentCouldBeFinal: Parameter 'json' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:47:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/cloud/OktaApi.java:47:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/cloud/OktaApi.java:52:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/OktaApi.java:52:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/OktaApi.java:65:	MethodArgumentCouldBeFinal: Parameter 'apiKey' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:65:	MethodArgumentCouldBeFinal: Parameter 'apiKey' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:65:	MethodArgumentCouldBeFinal: Parameter 'builder' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:65:	MethodArgumentCouldBeFinal: Parameter 'builder' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:65:	MethodArgumentCouldBeFinal: Parameter 'json' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:65:	MethodArgumentCouldBeFinal: Parameter 'json' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:66:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/cloud/OktaApi.java:66:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/cloud/OktaApi.java:70:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/OktaApi.java:70:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/OktaApi.java:81:	MethodArgumentCouldBeFinal: Parameter 'apiKey' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:81:	MethodArgumentCouldBeFinal: Parameter 'apiKey' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:81:	MethodArgumentCouldBeFinal: Parameter 'uri' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:81:	MethodArgumentCouldBeFinal: Parameter 'uri' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:81:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/cloud/OktaApi.java:81:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/cloud/OktaApi.java:86:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/OktaApi.java:86:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/OktaApi.java:95:	MethodArgumentCouldBeFinal: Parameter 'apiKey' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:95:	MethodArgumentCouldBeFinal: Parameter 'apiKey' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:95:	MethodArgumentCouldBeFinal: Parameter 'uri' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:95:	MethodArgumentCouldBeFinal: Parameter 'uri' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:95:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/cloud/OktaApi.java:95:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/cloud/OktaApi.java:100:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/OktaApi.java:100:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/OktaApi.java:113:	CyclomaticComplexity: The method 'callToOkta(String, URIBuilder, String, String)' has a cyclomatic complexity of 16.
+src/ldap/account/migration/cloud/OktaApi.java:113:	CyclomaticComplexity: The method 'callToOkta(String, URIBuilder, String, String)' has a cyclomatic complexity of 16.
+src/ldap/account/migration/cloud/OktaApi.java:113:	MethodArgumentCouldBeFinal: Parameter 'apiKey' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:113:	MethodArgumentCouldBeFinal: Parameter 'apiKey' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:113:	MethodArgumentCouldBeFinal: Parameter 'json' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:113:	MethodArgumentCouldBeFinal: Parameter 'json' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:113:	MethodArgumentCouldBeFinal: Parameter 'method' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:113:	MethodArgumentCouldBeFinal: Parameter 'method' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:113:	MethodArgumentCouldBeFinal: Parameter 'uri' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:113:	MethodArgumentCouldBeFinal: Parameter 'uri' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:113:	ModifiedCyclomaticComplexity: The method 'callToOkta' has a Modified Cyclomatic Complexity of 10.
+src/ldap/account/migration/cloud/OktaApi.java:113:	ModifiedCyclomaticComplexity: The method 'callToOkta' has a Modified Cyclomatic Complexity of 10.
+src/ldap/account/migration/cloud/OktaApi.java:113:	StdCyclomaticComplexity: The method 'callToOkta' has a Standard Cyclomatic Complexity of 12.
+src/ldap/account/migration/cloud/OktaApi.java:113:	StdCyclomaticComplexity: The method 'callToOkta' has a Standard Cyclomatic Complexity of 12.
+src/ldap/account/migration/cloud/OktaApi.java:114:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/cloud/OktaApi.java:114:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/cloud/OktaApi.java:116:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'conn' (lines '116'-'121').
+src/ldap/account/migration/cloud/OktaApi.java:116:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'conn' (lines '116'-'121').
+src/ldap/account/migration/cloud/OktaApi.java:117:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'results' (lines '117'-'138').
+src/ldap/account/migration/cloud/OktaApi.java:117:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'results' (lines '117'-'138').
+src/ldap/account/migration/cloud/OktaApi.java:117:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'results' (lines '117'-'145').
+src/ldap/account/migration/cloud/OktaApi.java:117:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'results' (lines '117'-'145').
+src/ldap/account/migration/cloud/OktaApi.java:117:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'results' (lines '117'-'179').
+src/ldap/account/migration/cloud/OktaApi.java:117:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'results' (lines '117'-'179').
+src/ldap/account/migration/cloud/OktaApi.java:118:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'retVal' (lines '118'-'148').
+src/ldap/account/migration/cloud/OktaApi.java:118:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'retVal' (lines '118'-'148').
+src/ldap/account/migration/cloud/OktaApi.java:118:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'retVal' (lines '118'-'179').
+src/ldap/account/migration/cloud/OktaApi.java:118:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'retVal' (lines '118'-'179').
+src/ldap/account/migration/cloud/OktaApi.java:119:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'os' (lines '119'-'131').
+src/ldap/account/migration/cloud/OktaApi.java:119:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'os' (lines '119'-'131').
+src/ldap/account/migration/cloud/OktaApi.java:119:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'os' (lines '119'-'179').
+src/ldap/account/migration/cloud/OktaApi.java:119:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'os' (lines '119'-'179').
+src/ldap/account/migration/cloud/OktaApi.java:119:	ShortVariable: Avoid variables with short names like os
+src/ldap/account/migration/cloud/OktaApi.java:119:	ShortVariable: Avoid variables with short names like os
+src/ldap/account/migration/cloud/OktaApi.java:121:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/OktaApi.java:121:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/OktaApi.java:121:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/OktaApi.java:121:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/ldap/account/migration/cloud/OktaApi.java:135:	MissingBreakInSwitch: A switch statement does not contain a break
+src/ldap/account/migration/cloud/OktaApi.java:135:	MissingBreakInSwitch: A switch statement does not contain a break
+src/ldap/account/migration/cloud/OktaApi.java:143:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/ldap/account/migration/cloud/OktaApi.java:143:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/ldap/account/migration/cloud/OktaApi.java:148:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'retVal' (lines '148'-'179').
+src/ldap/account/migration/cloud/OktaApi.java:148:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'retVal' (lines '148'-'179').
+src/ldap/account/migration/cloud/OktaApi.java:150:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:150:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:153:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:153:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:155:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/OktaApi.java:155:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/OktaApi.java:156:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:156:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:163:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/OktaApi.java:163:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/OktaApi.java:164:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:164:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:171:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/OktaApi.java:171:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/OktaApi.java:172:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:172:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:189:	CyclomaticComplexity: The method 'getContent(InputStream)' has a cyclomatic complexity of 13.
+src/ldap/account/migration/cloud/OktaApi.java:189:	CyclomaticComplexity: The method 'getContent(InputStream)' has a cyclomatic complexity of 13.
+src/ldap/account/migration/cloud/OktaApi.java:189:	MethodArgumentCouldBeFinal: Parameter 'stream' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:189:	MethodArgumentCouldBeFinal: Parameter 'stream' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:189:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/cloud/OktaApi.java:189:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/cloud/OktaApi.java:191:	CloseResource: Ensure that resources like this BufferedReader object are closed after use
+src/ldap/account/migration/cloud/OktaApi.java:191:	CloseResource: Ensure that resources like this BufferedReader object are closed after use
+src/ldap/account/migration/cloud/OktaApi.java:191:	ShortVariable: Avoid variables with short names like in
+src/ldap/account/migration/cloud/OktaApi.java:191:	ShortVariable: Avoid variables with short names like in
+src/ldap/account/migration/cloud/OktaApi.java:192:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'result' (lines '192'-'204').
+src/ldap/account/migration/cloud/OktaApi.java:192:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'result' (lines '192'-'204').
+src/ldap/account/migration/cloud/OktaApi.java:192:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'result' (lines '192'-'229').
+src/ldap/account/migration/cloud/OktaApi.java:192:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'result' (lines '192'-'229').
+src/ldap/account/migration/cloud/OktaApi.java:197:	LocalVariableCouldBeFinal: Local variable 'content' could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:197:	LocalVariableCouldBeFinal: Local variable 'content' could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:198:	AssignmentInOperand: Avoid assignments in operands
+src/ldap/account/migration/cloud/OktaApi.java:198:	AssignmentInOperand: Avoid assignments in operands
+src/ldap/account/migration/cloud/OktaApi.java:198:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'line' (lines '198'-'229').
+src/ldap/account/migration/cloud/OktaApi.java:198:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'line' (lines '198'-'229').
+src/ldap/account/migration/cloud/OktaApi.java:203:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/ldap/account/migration/cloud/OktaApi.java:203:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/ldap/account/migration/cloud/OktaApi.java:203:	LocalVariableCouldBeFinal: Local variable 'wellFormedJson' could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:203:	LocalVariableCouldBeFinal: Local variable 'wellFormedJson' could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:204:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'result' (lines '204'-'229').
+src/ldap/account/migration/cloud/OktaApi.java:204:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'result' (lines '204'-'229').
+src/ldap/account/migration/cloud/OktaApi.java:207:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:207:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:210:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:210:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:213:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:213:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:215:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/OktaApi.java:215:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/OktaApi.java:216:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:216:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:223:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/OktaApi.java:223:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/OktaApi.java:224:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:224:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:231:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/OktaApi.java:231:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/OktaApi.java:246:	MethodArgumentCouldBeFinal: Parameter 'apiKey' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:246:	MethodArgumentCouldBeFinal: Parameter 'apiKey' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:246:	MethodArgumentCouldBeFinal: Parameter 'json' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:246:	MethodArgumentCouldBeFinal: Parameter 'json' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:246:	MethodArgumentCouldBeFinal: Parameter 'limitReset' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:246:	MethodArgumentCouldBeFinal: Parameter 'limitReset' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:246:	MethodArgumentCouldBeFinal: Parameter 'method' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:246:	MethodArgumentCouldBeFinal: Parameter 'method' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:246:	MethodArgumentCouldBeFinal: Parameter 'uri' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:246:	MethodArgumentCouldBeFinal: Parameter 'uri' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:247:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/cloud/OktaApi.java:247:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/ldap/account/migration/cloud/OktaApi.java:249:	LocalVariableCouldBeFinal: Local variable 'timeToSleep' could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:249:	LocalVariableCouldBeFinal: Local variable 'timeToSleep' could be declared final
+src/ldap/account/migration/cloud/OktaApi.java:253:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:253:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaApi.java:254:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/ldap/account/migration/cloud/OktaApi.java:254:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/ldap/account/migration/cloud/OktaMigrator.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/ldap/account/migration/cloud/OktaMigrator.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/ldap/account/migration/cloud/OktaMigrator.java:15:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/OktaMigrator.java:15:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/OktaMigrator.java:16:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/OktaMigrator.java:16:	CommentRequired: Field comments are required
+src/ldap/account/migration/cloud/OktaMigrator.java:20:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/OktaMigrator.java:20:	CommentSize: Comment is too large: Too many lines
+src/ldap/account/migration/cloud/OktaMigrator.java:21:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/cloud/OktaMigrator.java:21:	CommentSize: Comment is too large: Line too long
+src/ldap/account/migration/cloud/OktaMigrator.java:31:	MethodArgumentCouldBeFinal: Parameter 'apiKey' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:31:	MethodArgumentCouldBeFinal: Parameter 'apiKey' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:31:	MethodArgumentCouldBeFinal: Parameter 'apiURL' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:31:	MethodArgumentCouldBeFinal: Parameter 'apiURL' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:31:	MethodArgumentCouldBeFinal: Parameter 'json' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:31:	MethodArgumentCouldBeFinal: Parameter 'json' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:31:	MethodArgumentCouldBeFinal: Parameter 'loginDisabled' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:31:	MethodArgumentCouldBeFinal: Parameter 'loginDisabled' is not assigned and could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:35:	LocalVariableCouldBeFinal: Local variable 'responseBuffer' could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:35:	LocalVariableCouldBeFinal: Local variable 'responseBuffer' could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:38:	LocalVariableCouldBeFinal: Local variable 'retVal' could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:38:	LocalVariableCouldBeFinal: Local variable 'retVal' could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:40:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/OktaMigrator.java:40:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/ldap/account/migration/cloud/OktaMigrator.java:41:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaMigrator.java:41:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/ldap/account/migration/cloud/OktaMigrator.java:62:	LocalVariableCouldBeFinal: Local variable 'cUser' could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:62:	LocalVariableCouldBeFinal: Local variable 'cUser' could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:64:	LocalVariableCouldBeFinal: Local variable 'createReturn' could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:64:	LocalVariableCouldBeFinal: Local variable 'createReturn' could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:66:	LocalVariableCouldBeFinal: Local variable 'retVal' could be declared final
+src/ldap/account/migration/cloud/OktaMigrator.java:66:	LocalVariableCouldBeFinal: Local variable 'retVal' could be declared final
+src/lds/account/migration/constants/ConstantUtils.java:13:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:13:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:14:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:14:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:15:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:15:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:17:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:17:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:18:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:18:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:19:	CommentSize: Comment is too large: Line too long
+src/lds/account/migration/constants/ConstantUtils.java:19:	CommentSize: Comment is too large: Line too long
+src/lds/account/migration/constants/ConstantUtils.java:20:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:20:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:20:	LongVariable: Avoid excessively long variable names like FIRSTNAME_MAX_LENGTH
+src/lds/account/migration/constants/ConstantUtils.java:20:	LongVariable: Avoid excessively long variable names like FIRSTNAME_MAX_LENGTH
+src/lds/account/migration/constants/ConstantUtils.java:21:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:21:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:21:	LongVariable: Avoid excessively long variable names like LASTNAME_MAX_LENGTH
+src/lds/account/migration/constants/ConstantUtils.java:21:	LongVariable: Avoid excessively long variable names like LASTNAME_MAX_LENGTH
+src/lds/account/migration/constants/ConstantUtils.java:22:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:22:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:23:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:23:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:24:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:24:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:25:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:25:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:26:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:26:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:26:	ShortVariable: Avoid variables with short names like ID
+src/lds/account/migration/constants/ConstantUtils.java:26:	ShortVariable: Avoid variables with short names like ID
+src/lds/account/migration/constants/ConstantUtils.java:27:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:27:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:28:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:28:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:29:	CommentRequired: Field comments are required
+src/lds/account/migration/constants/ConstantUtils.java:29:	CommentRequired: Field comments are required
+src/lds/account/testOkta/TestUtils.java:1:	PackageCase: Package name contains upper case characters
+src/lds/account/testOkta/TestUtils.java:1:	PackageCase: Package name contains upper case characters
+src/lds/account/testOkta/TestUtils.java:10:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/lds/account/testOkta/TestUtils.java:10:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/lds/account/testOkta/TestUtils.java:13:	CommentRequired: Field comments are required
+src/lds/account/testOkta/TestUtils.java:13:	CommentRequired: Field comments are required
+src/lds/account/testOkta/TestUtils.java:14:	CommentRequired: Field comments are required
+src/lds/account/testOkta/TestUtils.java:14:	CommentRequired: Field comments are required
+src/lds/account/testOkta/TestUtils.java:15:	CommentRequired: Field comments are required
+src/lds/account/testOkta/TestUtils.java:15:	CommentRequired: Field comments are required
+src/lds/account/testOkta/TestUtils.java:20:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/lds/account/testOkta/TestUtils.java:20:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/lds/account/testOkta/TestUtils.java:20:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/lds/account/testOkta/TestUtils.java:20:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/lds/account/testOkta/TestUtils.java:30:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/lds/account/testOkta/TestUtils.java:30:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/lds/account/testOkta/TestUtils.java:32:	LocalVariableCouldBeFinal: Local variable 'migrator' could be declared final
+src/lds/account/testOkta/TestUtils.java:32:	LocalVariableCouldBeFinal: Local variable 'migrator' could be declared final
+src/lds/account/testOkta/TestUtils.java:34:	LocalVariableCouldBeFinal: Local variable 'data' could be declared final
+src/lds/account/testOkta/TestUtils.java:34:	LocalVariableCouldBeFinal: Local variable 'data' could be declared final
+src/lds/account/testOkta/TestUtils.java:35:	LocalVariableCouldBeFinal: Local variable 'results' could be declared final
+src/lds/account/testOkta/TestUtils.java:35:	LocalVariableCouldBeFinal: Local variable 'results' could be declared final
