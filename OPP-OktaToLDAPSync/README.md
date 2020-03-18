@@ -58,7 +58,7 @@ You can follow the simple steps below to enable SSL using self-signed certificat
       NOTE : The answer to the first question "What is your first and last name?" should be "localhost" if your Tomcat server is going         to be accessed through the localhost URL.        If your Tomcat Server will be accessed through an IP (For example :                     https://10.11.12.13:8443/), you should execute the following command in the place of the above command to generate the key. 
       (Note that the command below should be executed from a Java 7 installation. The option "-ext san" to specify IPs in the                  SubjectAltNames is available only in Java 7) 
   
-  *$JAVA_7_HOME/bin/keytool -genkey -alias scim_tom -ext san=ip:10.11.12.13 -keyalg RSA -keystore /root/scim_tomcat_keystore*
+      *$JAVA_7_HOME/bin/keytool -genkey -alias scim_tom -ext san=ip:10.11.12.13 -keyalg RSA -keystore /root/scim_tomcat_keystore*
 
 2. Go to $TOMCAT_HOME/conf/server.xml and enable SSL - Use the configuration below which asks Tomcat to use the keystore /root/scim_tomcat_keystore (Generated above)
    ```
