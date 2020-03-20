@@ -2,7 +2,7 @@
 
 ## Utility Usage
 
-The utility helps in migration of users from any external system to Okta. This utility further helps in synchronization between the external system and Okta.  For example, this utility can be used to migrate/synchronize from Novell eDirectory to Okta. The utility jar can be placed on any server on the external system (Ex: Novell eDirectory) and its methods can be invoked to perform specific operations in Okta.
+The utility helps in migration of users from any external system to Okta. For example, this utility can be used to migrate users from Novell eDirectory to Okta. The utility jar can be placed on any server on the external system (Ex: Novell eDirectory) and its methods can be invoked to perform specific operations in Okta.
 
 The Utility contains 3 main classes:
 
